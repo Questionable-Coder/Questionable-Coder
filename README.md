@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/48d80143-bac7-445c-877f-736a46036ed8" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there!+This+is+Fish;+a+gamer;+goblin;+and+wannabe+developer!" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=82d66d&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+there;+This+is+Fish%2C+a+gamer%2C+goblin%2C+and+wannabe+developer" width="70%" />  
 <br><br>
 <pre>
     💼 Student • Game Dev
